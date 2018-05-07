@@ -5,7 +5,7 @@ public class CheckingAccount {
     private String accountType = "Checking Account";
     private String accountOwner = "Duke";
     private double balance = 0.0;
-    
+    // Test Update    
     
     //Methods
     public void printDetails(){
